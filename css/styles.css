@@ -1,0 +1,21 @@
+header {
+  margin: 0;
+  background-color: blue;
+}
+body {
+  margin: 0;
+}
+
+h1 {
+  margin: 0;
+  padding: 5px;
+}
+
+h2{
+  margin: 0;
+  text-align: center;
+}
+
+nav{
+  background-color: green;
+}
